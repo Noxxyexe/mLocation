@@ -1,6 +1,6 @@
 🚗 mLocation (NUI) — Menu de location de véhicules
 
-🎥 Preview vidéo : Clique ici pour voir la démo[https://youtu.be/i47xHUEsvtU?si=A8bHS_OzlbGPGLO8]
+🎥 Preview vidéo : [Clique ici pour voir la démo](https://youtu.be/i47xHUEsvtU?si=A8bHS_OzlbGPGLO8)
 
 🌟 Présentation mLocation est un menu de location de véhicules moderne en NUI, conçu pour offrir une expérience utilisateur fluide, esthétique et immersive. Intégré directement en HTML/CSS/JS, ce script permet aux joueurs de louer un véhicule rapidement à partir d’un PNJ ou d’un point spécifique sur la carte.
 
